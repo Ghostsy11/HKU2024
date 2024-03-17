@@ -1,0 +1,15 @@
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\bin\Debug\net7.0\PorgressCharp.exe
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\bin\Debug\net7.0\PorgressCharp.deps.json
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\bin\Debug\net7.0\PorgressCharp.runtimeconfig.json
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\bin\Debug\net7.0\PorgressCharp.dll
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\bin\Debug\net7.0\PorgressCharp.pdb
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.csproj.AssemblyReference.cache
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.AssemblyInfoInputs.cache
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.AssemblyInfo.cs
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.csproj.CoreCompileInputs.cache
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.dll
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\refint\PorgressCharp.dll
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.pdb
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\PorgressCharp.genruntimeconfig.cache
+C:\Users\abood\Desktop\C#-progress\PorgressCharp\PorgressCharp\obj\Debug\net7.0\ref\PorgressCharp.dll

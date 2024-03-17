@@ -1,0 +1,6 @@
+C:\Users\abood\Desktop\C#-progress\C#\Codewithmosh-course\Intermediate1-OOP\Amazon\bin\Debug\Amazon.dll
+C:\Users\abood\Desktop\C#-progress\C#\Codewithmosh-course\Intermediate1-OOP\Amazon\bin\Debug\Amazon.pdb
+C:\Users\abood\Desktop\C#-progress\C#\Codewithmosh-course\Intermediate1-OOP\Amazon\obj\Debug\Amazon.csproj.AssemblyReference.cache
+C:\Users\abood\Desktop\C#-progress\C#\Codewithmosh-course\Intermediate1-OOP\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\abood\Desktop\C#-progress\C#\Codewithmosh-course\Intermediate1-OOP\Amazon\obj\Debug\Amazon.dll
+C:\Users\abood\Desktop\C#-progress\C#\Codewithmosh-course\Intermediate1-OOP\Amazon\obj\Debug\Amazon.pdb
